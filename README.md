@@ -1,6 +1,6 @@
 ```python
 ┌──(shinoby㉿root)-[~/devlab]
-└─$ cat shinoby.py
+└─$ cat prohack.py
 
 class shinoby:
 
@@ -12,7 +12,7 @@ class shinoby:
 
     def  __social__(self):
         self.srv = ""
-        self.dsc = "shinoby#0420"
+        self.dsc = "shinobyCode"
     
     def __dev__(self):
         self.skills = {
