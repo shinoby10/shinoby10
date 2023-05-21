@@ -1,8 +1,8 @@
 ```python
 ┌──(shinoby㉿root)-[~/devlab]
-└─$ cat lostroes.py
+└─$ cat shinoby.py
 
-class lostroes:
+class shinoby:
 
     def __info__(self):
         self.bio = '''
