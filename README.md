@@ -12,13 +12,13 @@ class shinoby:
 
     def  __social__(self):
         self.srv = ""
-        self.dsc = "shinobyCode"
+        self.dsc = "ShinobyCode"
     
     def __dev__(self):
         self.skills = {
             "python": "well known",
-            "c#": "known",
-            "c#": "known",
+            "html": "well known",
+            "c#": "learning...",
             "c++": "learning...",
             "php": "well known..."
             "ruby": "well known..."
