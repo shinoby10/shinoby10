@@ -20,7 +20,8 @@ class shinoby:
             "c#": "known",
             "c#": "known",
             "c++": "learning...",
-            "php": "learning..."
+            "php": "well known..."
+            "ruby": "well known..."
         }
         
 ┌──(shinoby㉿root)-[~/devlab]
